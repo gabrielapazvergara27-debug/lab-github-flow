@@ -1,2 +1,2 @@
 # Calculadora del equipo
-Objetivo: practicar colaboracion
+Objetivo: validar cambios mediante pruebas.
