@@ -10,3 +10,4 @@ class TestCalculadora(unittest.TestCase):
 
     def test_restar_negativo(self):
         self.assertEqual(restar(2, 5), -3)
+        
